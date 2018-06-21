@@ -1,0 +1,173 @@
+Euro
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the currency. For other uses, see Euro (disambiguation).
+"EUR" redirects here. For other uses, see EUR (disambiguation).
+Euro
+???? (Bulgarian), ???? (Greek), euró (Hungarian), eoró (Irish), eiro (Latvian), euras (Lithuanian), ewro (Maltese), evro (Slovene)
+Euro Series Banknotes.png
+Euro banknotes as of 2017
+ISO 4217
+Code	EUR
+Number	978
+Exponent	2
+Denominations
+Subunit	
+ 1/100	cent
+Actual usage varies depending on language
+Plural	See Euro linguistic issues
+ cent	See article
+Symbol	€
+Nickname	
+The single currency[1]
+
+local names[show]
+Banknotes	
+ Freq. used	€5, €10, €20, €50, €100, €200
+ Rarely used	€500[2] (production ends soon)
+Coins	1c, 2c, 5c, 10c, 20c, 50c, €1, €2
+Demographics
+Official user(s)	
+European Union Eurozone (19)[show]
+Monetary agreement (9)[show]
+Unofficial user(s)	
+Unilateral adoption (2)[show]
+Other partial users (2)[show]
+Issuance
+Central bank	European Central Bank
+ Website	www.ecb.europa.eu
+Printer	
+Several[show]
+ Website	
+Several[show]
+Mint	
+Several[show]
+ Website	
+Several[show]
+Valuation
+Inflation	1.5% (2017)
+ Source	Eurostat
+ Method	HICP
+Pegged by	
+11 currencies[show]
+The euro (sign: €; code: EUR) is the official currency of the European Union. Currently, 19 of 28 member states use the euro; this group of states is known as the eurozone. It is the second most traded currency in the foreign exchange market after the United States dollar.[7] The euro is subdivided into 100 cents.
+
+The currency is also officially used by the institutions of the European Union and four other European countries, as well as unilaterally by two others, and is consequently used daily by some 337 million Europeans as of 2015.[8] Outside Europe, a number of overseas territories of EU members also use the euro as their currency. Additionally, 210 million people worldwide as of 2013 use currencies pegged to the euro.
+
+The euro is the second largest reserve currency as well as the second most traded currency in the world after the United States dollar.[9][10][11] As of January 2017, with more than €1.1 trillion in circulation, the euro has one of the highest combined values of banknotes and coins in circulation in the world, having surpassed the U.S. dollar.[12][note 13]
+
+The name euro was officially adopted on 16 December 1995 in Madrid.[13] The euro was introduced to world financial markets as an accounting currency on 1 January 1999, replacing the former European Currency Unit (ECU) at a ratio of 1:1 (US$1.1743). Physical euro coins and banknotes entered into circulation on 1 January 2002, making it the day-to-day operating currency of its original members, and by May 2002 had completely replaced the former currencies.[14] While the euro dropped subsequently to US$0.83 within two years (26 October 2000), it has traded above the U.S. dollar since the end of 2002, peaking at US$1.60 on 18 July 2008.[15] In late 2009, the euro became immersed in the European sovereign-debt crisis, which led to the creation of the European Financial Stability Facility as well as other reforms aimed at stabilising and strengthing the currency.
+
+Contents 
+1	Administration
+2	Issuing modalities for banknotes
+3	Characteristics
+3.1	Coins and banknotes
+3.2	Payments clearing, electronic funds transfer
+3.3	Currency sign
+4	History
+4.1	Introduction
+4.2	Eurozone crisis
+5	Direct and indirect usage
+5.1	Direct usage
+5.2	Use as reserve currency
+5.3	Currencies pegged to the euro
+6	Economics
+6.1	Optimal currency area
+6.2	Transaction costs and risks
+6.3	Price parity
+6.4	Macroeconomic stability
+6.4.1	Trade
+6.4.2	Investment
+6.4.3	Inflation
+6.4.4	Exchange rate risk
+6.4.5	Financial integration
+6.4.6	Effect on interest rates
+6.4.7	Price convergence
+6.4.8	Tourism
+7	Exchange rates
+7.1	Flexible exchange rates
+7.2	Against other major currencies
+8	Linguistic issues
+9	See also
+10	Notes
+11	References
+12	Further reading
+13	External links
+Administration
+
+The European Central Bank has its seat in Frankfurt (Germany) and is in charge of the monetary policy of the euro area.
+Main articles: European Central Bank, Maastricht Treaty, and Eurogroup
+The euro is managed and administered by the Frankfurt-based European Central Bank (ECB) and the Eurosystem (composed of the central banks of the eurozone countries). As an independent central bank, the ECB has sole authority to set monetary policy. The Eurosystem participates in the printing, minting and distribution of notes and coins in all member states, and the operation of the eurozone payment systems.
+
+The 1992 Maastricht Treaty obliges most EU member states to adopt the euro upon meeting certain monetary and budgetary convergence criteria, although not all states have done so. The United Kingdom and Denmark negotiated exemptions,[16] while Sweden (which joined the EU in 1995, after the Maastricht Treaty was signed) turned down the euro in a 2003 referendum, and has circumvented the obligation to adopt the euro by not meeting the monetary and budgetary requirements. All nations that have joined the EU since 1993 have pledged to adopt the euro in due course.
+
+Issuing modalities for banknotes
+Since 1 January 2002, the national central banks (NCBs) and the ECB have issued euro banknotes on a joint basis.[17] Euro banknotes do not show which central bank issued them.[dubious – discuss] Eurosystem NCBs are required to accept euro banknotes put into circulation by other Eurosystem members and these banknotes are not repatriated. The ECB issues 8% of the total value of banknotes issued by the Eurosystem.[17] In practice, the ECB's banknotes are put into circulation by the NCBs, thereby incurring matching liabilities vis-a-vis the ECB. These liabilities carry interest at the main refinancing rate of the ECB. The other 92% of euro banknotes are issued by the NCBs in proportion to their respective shares of the ECB capital key,[17] calculated using national share of European Union (EU) population and national share of EU GDP, equally weighted.[18]
+
+Characteristics
+Coins and banknotes
+Main articles: Euro coins and Euro banknotes
+
+Euro coins and banknotes of various denominations
+The euro is divided into 100 cents (sometimes referred to as euro cents, especially when distinguishing them from other currencies, and referred to as such on the common side of all cent coins). In Community legislative acts the plural forms of euro and cent are spelled without the s, notwithstanding normal English usage.[19][20] Otherwise, normal English plurals are sometimes used,[21] with many local variations such as centime in France.
+
+All circulating coins have a common side showing the denomination or value, and a map in the background. Due to the linguistic plurality in the European Union, the Latin alphabet version of euro is used (as opposed to the less common Greek or Cyrillic) and Arabic numerals (other text is used on national sides in national languages, but other text on the common side is avoided). For the denominations except the 1-, 2- and 5-cent coins, the map only showed the 15 member states which were members when the euro was introduced. Beginning in 2007 or 2008 (depending on the country) the old map is being replaced by a map of Europe also showing countries outside the Union like Norway. The 1-, 2- and 5-cent coins, however, keep their old design, showing a geographical map of Europe with the 15 member states of 2002 raised somewhat above the rest of the map. All common sides were designed by Luc Luycx. The coins also have a national side showing an image specifically chosen by the country that issued the coin. Euro coins from any member state may be freely used in any nation that has adopted the euro.
+
+
+The new banknotes were introduced in the beginning of 2013. The top half of the image shows the front side of the banknote and the bottom half shows the back side.
+
+10 euro note from the new Europa series written in Latin (EURO) and Greek (????) alphabets, but also in the Cyrillic (????) alphabet, as a result of Bulgaria joining the European Union in 2007.
+The coins are issued in denominations of €2, €1, 50c, 20c, 10c, 5c, 2c, and 1c. To avoid the use of the two smallest coins, some cash transactions are rounded to the nearest five cents in the Netherlands and Ireland[22][23] (by voluntary agreement) and in Finland (by law).[24] This practice is discouraged by the Commission, as is the practice of certain shops of refusing to accept high-value euro notes.[25]
+
+Commemorative coins with €2 face value have been issued with changes to the design of the national side of the coin. These include both commonly issued coins, such as the €2 commemorative coin for the fiftieth anniversary of the signing of the Treaty of Rome, and nationally issued coins, such as the coin to commemorate the 2004 Summer Olympics issued by Greece. These coins are legal tender throughout the eurozone. Collector coins with various other denominations have been issued as well, but these are not intended for general circulation, and they are legal tender only in the member state that issued them.[26]
+
+The design for the euro banknotes has common designs on both sides. The design was created by the Austrian designer Robert Kalina.[27] Notes are issued in €500, €200, €100, €50, €20, €10, €5. Each banknote has its own colour and is dedicated to an artistic period of European architecture. The front of the note features windows or gateways while the back has bridges, symbolising links between countries and with the future. While the designs are supposed to be devoid of any identifiable characteristics, the initial designs by Robert Kalina were of specific bridges, including the Rialto and the Pont de Neuilly, and were subsequently rendered more generic; the final designs still bear very close similarities to their specific prototypes; thus they are not truly generic. The monuments looked similar enough to different national monuments to please everyone.[28]
+
+Payments clearing, electronic funds transfer
+Main article: Single Euro Payments Area
+Capital within the EU may be transferred in any amount from one country to another. All intra-EU transfers in euro are treated as domestic transactions and bear the corresponding domestic transfer costs.[29] This includes all member states of the EU, even those outside the eurozone providing the transactions are carried out in euro.[30] Credit/debit card charging and ATM withdrawals within the eurozone are also treated as domestic transactions; however paper-based payment orders, like cheques, have not been standardised so these are still domestic-based. The ECB has also set up a clearing system, TARGET, for large euro transactions.[31]
+
+Currency sign
+
+The euro sign; logotype and handwritten
+Main article: Euro sign
+A special euro currency sign (€) was designed after a public survey had narrowed the original ten proposals down to two. The European Commission then chose the design created by the Belgian Alain Billiet. Of the symbol, the EC stated[19]
+
+Inspiration for the € symbol itself came from the Greek epsilon (?)[note 14] – a reference to the cradle of European civilisation – and the first letter of the word Europe, crossed by two parallel lines to 'certify' the stability of the euro.
+
+—?European Commission
+The European Commission also specified a euro logo with exact proportions and foreground and background colour tones.[32] While the Commission intended the logo to be a prescribed glyph shape[citation needed], font designers made it clear that they intended to design their own variants instead.[33] Typewriters lacking the euro sign can create it by typing a capital "C", backspacing, and overstriking it with the equal ("=") sign. Placement of the currency sign relative to the numeric amount varies from nation to nation, but for texts in English the symbol (or the ISO-standard "EUR") should precede the amount.[34]
+
+History
+Main article: History of the euro
+Introduction
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2017) (Learn how and when to remove this template message)
+v t e
+Preceding national currencies of the Eurozone
+Currency	Code
+(ISO 4217)	Rate[35]	Fixed on	Yielded
+Austria Austrian schilling	ATS	13.7603	1998-12-31	1999-01-01
+Belgium Belgian franc	BEF	40.3399	1998-12-31	1999-01-01
+Cyprus Cypriot pound	CYP	0.585274	2007-07-10	2008-01-01
+Netherlands Dutch guilder	NLG	2.20371	1998-12-31	1999-01-01
+Estonia Estonian kroon	EEK	15.6466	2010-07-13	2011-01-01
+Finland Finnish markka	FIM	5.94573	1998-12-31	1999-01-01
+France French franc	FRF	6.55957	1998-12-31	1999-01-01
+Germany German mark	DEM	1.95583	1998-12-31	1999-01-01
+Greece Greek drachma	GRD	340.75	2000-06-19	2001-01-01
+Republic of Ireland Irish pound	IEP	0.787564	1998-12-31	1999-01-01
+Italy Italian lira	ITL	1,936.27	1998-12-31	1999-01-01
+Latvia Latvian lats	LVL	0.702804	2013-07-09	2014-01-01
+Lithuania Lithuanian litas	LTL	3.4528	2014-07-23	2015-01-01
+Luxembourg Luxembourgish franc	LUF	40.3399	1998-12-31	1999-01-01
+Malta Maltese lira	MTL	0.4293	2007-07-10	2008-01-01
+Monaco Monégasque franc	MCF	6.55957	1998-12-31	1999-01-01
+Portugal Portuguese escudo	PTE	200.482	1998-12-31	1999-01-01
+San Marino Sammarinese lira	SML	1,936.27	1998-12-31	1999-01-01
+Slovakia Slovak koruna	SKK	30.126	2008-07-08	2009-01-01
+Slovenia Slovenian tolar	SIT	239.64	2006-07-11	2007-01-01
+Spain Spanish peseta	ESP	166.386	1998-12-31	1999-01-01
+Vatican City Vatican lira	VAL	1,936.27	1998-12-31	1999-01-01
+The euro was established by the provisions in the 1992 Maastricht Treaty. To participate in the currency, member states are meant to meet strict criteria, such as a budget deficit of less than 3% of their GDP, a debt ratio of less than 60% of GDP (both of which were ultimately widely flouted after introduction), low inflation, and interest rates close to the EU average. In the Maastricht Treaty, the United Kingdom and Denmark were granted exemptions per their request from moving to the stage of monetary union which resulted in the introduction of the euro. (For macroeconomic theory, see below.)
